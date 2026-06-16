@@ -144,7 +144,6 @@ variable fonts), and `variable: true|false`.
 
 - Add a row to the **Typefaces** table in the top-level `README.md`.
 - Add an entry to `fonts.json` under `typefaces`.
-- (Optional) add a section to `index.html` so the preview page showcases it.
 
 ## 7. Commit, tag, push — under the maxlair1 account
 
