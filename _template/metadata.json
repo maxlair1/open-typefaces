@@ -1,0 +1,30 @@
+{
+  "id": "font-id-kebab-case",
+  "name": "Human Readable Name",
+  "category": "monospace | sans-serif | serif | display | handwriting",
+  "designer": "Designer or foundry",
+  "description": "One or two sentences about the typeface.",
+  "version": "1.0",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Copyright YEAR The Project Authors",
+  "source": {
+    "upstream": "https://github.com/owner/repo",
+    "homepage": "https://example.com",
+    "addedAt": "YYYY-MM-DD"
+  },
+  "cssFamily": "Human Readable Name",
+  "css": {
+    "static": "font-id-kebab-case.css",
+    "variable": "font-id-kebab-case-variable.css"
+  },
+  "weights": [400, 700],
+  "styles": ["normal", "italic"],
+  "axes": [],
+  "formats": ["woff2"],
+  "variable": false
+}

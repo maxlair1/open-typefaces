@@ -1,0 +1,32 @@
+{
+  "id": "drafting-mono",
+  "name": "Drafting Mono",
+  "category": "monospace",
+  "designer": "indestructible type*",
+  "description": "An original monospaced typeface inspired by typewriters and the \"still-in-the-works\" spirit of drafting. Neutral and timeless, yet personal and anachronistic.",
+  "version": "1.1",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Copyright 2021 The Drafting Mono Project Authors (https://github.com/indestructible-type/Drafting)",
+  "source": {
+    "upstream": "https://github.com/indestructible-type/Drafting",
+    "homepage": "https://indestructibletype.com/Drafting/",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Drafting Mono",
+  "css": {
+    "static": "drafting-mono.css",
+    "variable": "drafting-mono-variable.css"
+  },
+  "weights": [100, 200, 300, 400, 500, 600, 700],
+  "styles": ["normal", "italic"],
+  "axes": [
+    { "tag": "wght", "name": "Weight", "min": 100, "max": 700, "default": 400 }
+  ],
+  "formats": ["woff2"],
+  "variable": true
+}

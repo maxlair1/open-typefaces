@@ -1,0 +1,24 @@
+/* Drafting Mono — variable font (woff2, wght 100–700)
+ * Family: "Drafting Mono"  ·  Axis: wght 100–700 (default 400)  ·  Roman + Italic
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://github.com/indestructible-type/Drafting
+ *
+ * Prefer this over the static CSS when you need arbitrary weights
+ * (e.g. font-weight: 430) or smaller total payload. Relative src URLs.
+ */
+
+@font-face {
+  font-family: 'Drafting Mono';
+  font-style: normal;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url('./files/drafting-mono-variable.woff2') format('woff2-variations');
+}
+
+@font-face {
+  font-family: 'Drafting Mono';
+  font-style: italic;
+  font-weight: 100 700;
+  font-display: swap;
+  src: url('./files/drafting-mono-italic-variable.woff2') format('woff2-variations');
+}

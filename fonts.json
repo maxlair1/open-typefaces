@@ -1,0 +1,20 @@
+{
+  "repo": "maxlair1/open-typefaces",
+  "cdn": {
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@{ref}/fonts/{id}/{id}.css",
+    "statically": "https://cdn.statically.io/gh/maxlair1/open-typefaces/{ref}/fonts/{id}/{id}.css"
+  },
+  "typefaces": [
+    {
+      "id": "drafting-mono",
+      "name": "Drafting Mono",
+      "category": "monospace",
+      "license": "OFL-1.1",
+      "variable": true,
+      "css": {
+        "static": "fonts/drafting-mono/drafting-mono.css",
+        "variable": "fonts/drafting-mono/drafting-mono-variable.css"
+      }
+    }
+  ]
+}

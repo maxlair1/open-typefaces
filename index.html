@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>open-typefaces</title>
+<link rel="stylesheet" href="./fonts/drafting-mono/drafting-mono-variable.css">
+<style>
+:root {
+  --bg: #0e0f12;
+  --fg: #e7e7e7;
+  --muted: #8a8f98;
+  --line: #23262d;
+  --accent: #d6b35e;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: 'Drafting Mono', ui-monospace, monospace;
+  line-height: 1.5;
+  padding: 4rem 1.5rem;
+}
+main { max-width: 64rem; margin: 0 auto; }
+header { border-bottom: 1px solid var(--line); padding-bottom: 1.5rem; margin-bottom: 2.5rem; }
+h1 { font-size: 2rem; font-weight: 700; margin: 0 0 .25rem; letter-spacing: -.01em; }
+.sub { color: var(--muted); font-weight: 300; margin: 0; }
+.sub a { color: var(--accent); text-decoration: none; }
+section { margin: 2.5rem 0; }
+.label { color: var(--muted); font-size: .8rem; text-transform: uppercase; letter-spacing: .08em; margin-bottom: 1rem; }
+.row { display: flex; align-items: baseline; gap: 1.5rem; padding: .35rem 0; border-bottom: 1px dashed var(--line); }
+.row .w { color: var(--muted); font-size: .8rem; width: 9rem; flex: none; }
+.row .sample { font-size: 1.5rem; }
+.italic { font-style: italic; }
+.demo { font-size: clamp(1.5rem, 6vw, 3.5rem); margin: 1rem 0; line-height: 1.2; }
+input[type=range] { width: 100%; accent-color: var(--accent); }
+.readout { color: var(--accent); }
+code { background: #1a1c22; padding: .15rem .4rem; border-radius: 4px; font-size: .85em; }
+footer { margin-top: 4rem; color: var(--muted); font-size: .85rem; border-top: 1px solid var(--line); padding-top: 1.5rem; }
+footer a { color: var(--accent); text-decoration: none; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>open-typefaces</h1>
+    <p class="sub">A self-hosted CDN for openly-licensed typefaces · <a href="https://github.com/maxlair1/open-typefaces">github.com/maxlair1/open-typefaces</a></p>
+  </header>
+
+  <section>
+    <div class="label">Drafting Mono — variable weight</div>
+    <div class="demo" id="demo" style="font-weight: 400;">The quick brown fox jumps over the lazy dog</div>
+    <input type="range" id="wght" min="100" max="700" value="400" step="1">
+    <p class="sub">weight: <span class="readout" id="wghtVal">400</span></p>
+  </section>
+
+  <section>
+    <div class="label">Static weights</div>
+    <div class="row"><span class="w">Thin · 100</span><span class="sample" style="font-weight:100">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">ExtraLight · 200</span><span class="sample" style="font-weight:200">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">Light · 300</span><span class="sample" style="font-weight:300">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">Regular · 400</span><span class="sample" style="font-weight:400">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">Medium · 500</span><span class="sample" style="font-weight:500">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">SemiBold · 600</span><span class="sample" style="font-weight:600">Drafting Mono <span class="italic">italic</span></span></div>
+    <div class="row"><span class="w">Bold · 700</span><span class="sample" style="font-weight:700">Drafting Mono <span class="italic">italic</span></span></div>
+  </section>
+
+  <section>
+    <div class="label">Numerals &amp; symbols</div>
+    <div class="sample" style="font-size:1.5rem">0123456789 {}[]()&lt;&gt; =&gt; != === @#$%&amp; /\|~ il1 O0</div>
+  </section>
+
+  <footer>
+    Drafting Mono © 2021 indestructible type* — <a href="./fonts/drafting-mono/OFL.txt">SIL Open Font License 1.1</a>. Served here as a demo of the open-typefaces structure.
+  </footer>
+</main>
+<script>
+  const r = document.getElementById('wght');
+  const demo = document.getElementById('demo');
+  const out = document.getElementById('wghtVal');
+  r.addEventListener('input', () => {
+    demo.style.fontWeight = r.value;
+    out.textContent = r.value;
+  });
+</script>
+</body>
+</html>
