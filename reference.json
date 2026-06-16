@@ -1,0 +1,32 @@
+[
+  {
+    "font": "Chivo",
+    "href": "https://www.omnibus-type.com/fonts/chivo/",
+    "source": "https://cdn.jsdelivr.net/fontsource/fonts/chivo:vf@latest/latin-wght-normal.woff2"
+  },
+  {
+    "font": "Drafting Mono",
+    "href": "https://indestructibletype.com/Drafting/",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.0.0/fonts/drafting-mono/drafting-mono.css"
+  },
+  {
+    "font": "Aspekta",
+    "href": "https://github.com/ivodolenc/aspekta",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.1.0/fonts/aspekta/aspekta-variable.css"
+  },
+  {
+    "font": "Optician Sans",
+    "href": "https://optician-sans.com/",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.3.0/fonts/optician-sans/optician-sans.css"
+  },
+  {
+    "font": "Metropolis",
+    "href": "https://github.com/dw5/Metropolis",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.4.0/fonts/metropolis/metropolis.css"
+  },
+  {
+    "font": "Iosevka",
+    "href": "https://github.com/be5invis/iosevka",
+    "source": "https://cdn.jsdelivr.net/npm/@fontsource/iosevka@latest/index.css"
+  }
+]

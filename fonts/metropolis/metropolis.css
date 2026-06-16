@@ -1,0 +1,151 @@
+/* Metropolis — static weights (woff2)
+ * Family: "Metropolis"  ·  Weights 100–900  ·  Roman + Italic
+ * The Unlicense (public domain) — see ./LICENSE.txt
+ * Upstream: https://github.com/dw5/Metropolis (preserved fork of chrismsimpson/Metropolis)
+ *
+ * src URLs are RELATIVE to this stylesheet. woff2 converted from upstream TTF.
+ */
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./files/metropolis-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./files/metropolis-thin-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./files/metropolis-extralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./files/metropolis-extralight-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./files/metropolis-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./files/metropolis-light-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/metropolis-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/metropolis-regular-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./files/metropolis-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./files/metropolis-medium-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./files/metropolis-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./files/metropolis-semibold-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./files/metropolis-bold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./files/metropolis-bold-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./files/metropolis-extrabold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./files/metropolis-extrabold-italic.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./files/metropolis-black.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  font-style: italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./files/metropolis-black-italic.woff2') format('woff2');
+}

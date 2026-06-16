@@ -1,0 +1,29 @@
+{
+  "id": "metropolis",
+  "name": "Metropolis",
+  "category": "sans-serif",
+  "designer": "Chris Simpson",
+  "description": "A modern, geometric sans-serif family released into the public domain. 9 weights with matching italics.",
+  "version": "11.000",
+  "license": {
+    "id": "Unlicense",
+    "name": "The Unlicense (public domain)",
+    "file": "LICENSE.txt",
+    "url": "https://unlicense.org/"
+  },
+  "copyright": "Metropolis by Chris Simpson, released into the public domain (The Unlicense).",
+  "source": {
+    "upstream": "https://github.com/dw5/Metropolis",
+    "homepage": "https://github.com/dw5/Metropolis",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Metropolis",
+  "css": {
+    "static": "metropolis.css"
+  },
+  "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+  "styles": ["normal", "italic"],
+  "axes": [],
+  "formats": ["woff2"],
+  "variable": false
+}

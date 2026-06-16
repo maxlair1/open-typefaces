@@ -36,6 +36,16 @@
       "css": {
         "static": "fonts/optician-sans/optician-sans.css"
       }
+    },
+    {
+      "id": "metropolis",
+      "name": "Metropolis",
+      "category": "sans-serif",
+      "license": "Unlicense",
+      "variable": false,
+      "css": {
+        "static": "fonts/metropolis/metropolis.css"
+      }
     }
   ]
 }

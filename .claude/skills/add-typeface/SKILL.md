@@ -17,8 +17,9 @@ in a temp dir, assemble into `fonts/<id>/`, then commit + tag.
 ## 0. Vet the license — hard gate
 
 Only add fonts whose license permits **redistribution AND web embedding**: OFL-1.1,
-Apache-2.0, MIT, Ubuntu Font License, and similar. Find the license file in the source
-(`LICENSE`, `LICENSE.txt`, `OFL.txt`).
+Apache-2.0, MIT, Ubuntu Font License, public-domain dedications (Unlicense, CC0), and
+similar. Find the license file in the source (`LICENSE`, `LICENSE.txt`, `OFL.txt`,
+`UNLICENSE`) and copy it into the font folder beside the binaries.
 
 - GitHub's API may report `"Other"` for OFL — that's a detection gap, not a problem.
   Open the file and confirm it says "SIL Open Font License".
@@ -144,6 +145,7 @@ variable fonts), and `variable: true|false`.
 
 - Add a row to the **Typefaces** table in the top-level `README.md`.
 - Add an entry to `fonts.json` under `typefaces`.
+- Add an entry to `reference.json` — the flat `{font, href, source}` consumer sheet — pinned to the release tag you create in step 7 (`source` = the CSS URL consumers load; `href` = the font's homepage/source). **Append only; never rewrite an existing entry's version pin.** Fonts hosted elsewhere (e.g. Fontsource) may also live in this sheet with their external `source` URL even though they aren't vendored here.
 
 ## 7. Commit, tag, push — under the maxlair1 account
 
