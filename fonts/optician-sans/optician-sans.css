@@ -1,0 +1,17 @@
+/* Optician Sans — single weight (woff2)
+ * Family: "Optician Sans"  ·  Regular (400)  ·  one weight, no italics
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://github.com/anewtypeofinterference/Optician-Sans
+ *
+ * A display face based on historical optotypes / eye charts — best for large
+ * headings, not body text. src URL is RELATIVE to this stylesheet, so one
+ * <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Optician Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/optician-sans-regular.woff2') format('woff2');
+}

@@ -26,6 +26,16 @@
         "static": "fonts/aspekta/aspekta.css",
         "variable": "fonts/aspekta/aspekta-variable.css"
       }
+    },
+    {
+      "id": "optician-sans",
+      "name": "Optician Sans",
+      "category": "display",
+      "license": "OFL-1.1",
+      "variable": false,
+      "css": {
+        "static": "fonts/optician-sans/optician-sans.css"
+      }
     }
   ]
 }

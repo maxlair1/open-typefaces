@@ -1,0 +1,29 @@
+{
+  "id": "optician-sans",
+  "name": "Optician Sans",
+  "category": "display",
+  "designer": "ANTI Hamar & Fábio Duarte Martins",
+  "description": "A display typeface based on the historical eye charts and optotypes used by opticians worldwide. Single weight — best for large headings, not body text.",
+  "version": "1.0",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Optician Sans by ANTI Hamar & Fábio Duarte Martins, under the SIL Open Font License 1.1.",
+  "source": {
+    "upstream": "https://github.com/anewtypeofinterference/Optician-Sans",
+    "homepage": "https://optician-sans.com/",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Optician Sans",
+  "css": {
+    "static": "optician-sans.css"
+  },
+  "weights": [400],
+  "styles": ["normal"],
+  "axes": [],
+  "formats": ["woff2"],
+  "variable": false
+}
