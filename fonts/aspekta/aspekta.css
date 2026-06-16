@@ -1,0 +1,169 @@
+/* Aspekta — static weights (woff2)
+ * Family: "Aspekta"  ·  Weights 50–1000 (steps of 50)  ·  Roman only
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://github.com/ivodolenc/aspekta
+ *
+ * src URLs are RELATIVE to this stylesheet, so a single <link> to this file
+ * (via jsDelivr, Statically, GitHub Pages, or a local copy) loads the woff2
+ * from the same location automatically.
+ */
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 50;
+  font-display: swap;
+  src: url('./files/aspekta-50.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./files/aspekta-100.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 150;
+  font-display: swap;
+  src: url('./files/aspekta-150.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./files/aspekta-200.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 250;
+  font-display: swap;
+  src: url('./files/aspekta-250.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./files/aspekta-300.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 350;
+  font-display: swap;
+  src: url('./files/aspekta-350.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/aspekta-400.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 450;
+  font-display: swap;
+  src: url('./files/aspekta-450.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./files/aspekta-500.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 550;
+  font-display: swap;
+  src: url('./files/aspekta-550.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./files/aspekta-600.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 650;
+  font-display: swap;
+  src: url('./files/aspekta-650.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./files/aspekta-700.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 750;
+  font-display: swap;
+  src: url('./files/aspekta-750.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('./files/aspekta-800.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 850;
+  font-display: swap;
+  src: url('./files/aspekta-850.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('./files/aspekta-900.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 950;
+  font-display: swap;
+  src: url('./files/aspekta-950.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 1000;
+  font-display: swap;
+  src: url('./files/aspekta-1000.woff2') format('woff2');
+}

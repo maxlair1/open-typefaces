@@ -1,0 +1,32 @@
+{
+  "id": "aspekta",
+  "name": "Aspekta",
+  "category": "sans-serif",
+  "designer": "Ivo Dolenc",
+  "description": "A modern sans-serif family with an unusually fine-grained weight range — 20 static weights from 50 to 1000 in steps of 50.",
+  "version": "2.100",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Copyright (c) 2025 Ivo Dolenc (https://github.com/ivodolenc), with Reserved Font Name \"Aspekta\".",
+  "source": {
+    "upstream": "https://github.com/ivodolenc/aspekta",
+    "homepage": "https://github.com/ivodolenc/aspekta",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Aspekta",
+  "css": {
+    "static": "aspekta.css",
+    "variable": "aspekta-variable.css"
+  },
+  "weights": [50, 100, 150, 200, 250, 300, 350, 400, 450, 500, 550, 600, 650, 700, 750, 800, 850, 900, 950, 1000],
+  "styles": ["normal"],
+  "axes": [
+    { "tag": "wght", "name": "Weight", "min": 100, "max": 900, "default": 400 }
+  ],
+  "formats": ["woff2"],
+  "variable": true
+}

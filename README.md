@@ -32,6 +32,7 @@ Replace `<ref>` with a release tag (`v1.0.0`), a commit SHA, or a branch (`main`
 | Typeface | Category | License | ID |
 |---|---|---|---|
 | [Drafting Mono](./fonts/drafting-mono/) | Monospace | OFL-1.1 | `drafting-mono` |
+| [Aspekta](./fonts/aspekta/) | Sans-serif | OFL-1.1 | `aspekta` |
 
 A machine-readable index of everything here lives in [`fonts.json`](./fonts.json).
 

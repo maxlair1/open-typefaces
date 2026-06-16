@@ -1,0 +1,16 @@
+/* Aspekta — variable font (woff2, wght 100–900)
+ * Family: "Aspekta"  ·  Axis: wght 100–900 (default 400)  ·  Roman only
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://github.com/ivodolenc/aspekta
+ *
+ * Note: the variable axis is 100–900. Weights 50, 950 and 1000 exist only as
+ * static files (aspekta.css). Relative src URL.
+ */
+
+@font-face {
+  font-family: 'Aspekta';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('./files/aspekta-variable.woff2') format('woff2-variations');
+}

@@ -15,6 +15,17 @@
         "static": "fonts/drafting-mono/drafting-mono.css",
         "variable": "fonts/drafting-mono/drafting-mono-variable.css"
       }
+    },
+    {
+      "id": "aspekta",
+      "name": "Aspekta",
+      "category": "sans-serif",
+      "license": "OFL-1.1",
+      "variable": true,
+      "css": {
+        "static": "fonts/aspekta/aspekta.css",
+        "variable": "fonts/aspekta/aspekta-variable.css"
+      }
     }
   ]
 }
