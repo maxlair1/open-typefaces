@@ -58,6 +58,16 @@
       }
     },
     {
+      "id": "isenheim",
+      "name": "Isenheim",
+      "category": "display",
+      "license": "OFL-1.1",
+      "variable": false,
+      "css": {
+        "static": "fonts/isenheim/isenheim.css"
+      }
+    },
+    {
       "id": "metropolis",
       "name": "Metropolis",
       "category": "sans-serif",
@@ -117,6 +127,17 @@
       "variable": false,
       "css": {
         "static": "fonts/route159/route159.css"
+      }
+    },
+    {
+      "id": "tanklager",
+      "name": "Tanklager",
+      "category": "display",
+      "license": "OFL-1.1",
+      "variable": true,
+      "css": {
+        "static": "fonts/tanklager/tanklager.css",
+        "variable": "fonts/tanklager/tanklager-variable.css"
       }
     },
     {

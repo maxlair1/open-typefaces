@@ -1,0 +1,9 @@
+{
+  "id": "isenheim", "name": "Isenheim", "category": "display", "designer": "Benoît Ferran",
+  "description": "A gothic/textura-inspired display face, in Régulier (400) and Fin (200).", "version": "1.0",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) 2021, Benoît Ferran (benoitferran.info), with Reserved Font Name \"Isenheim\".",
+  "source": { "upstream": "https://www.tunera.xyz/fonts/isenheim/", "homepage": "https://www.tunera.xyz/fonts/isenheim/", "addedAt": "2026-06-16" },
+  "cssFamily": "Isenheim", "css": { "static": "isenheim.css" },
+  "weights": [200,400], "styles": ["normal"], "axes": [], "formats": ["woff2"], "variable": false
+}

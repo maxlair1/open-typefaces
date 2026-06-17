@@ -1,0 +1,25 @@
+/* Tanklager — static cuts (woff2): Original + Kompakt
+ * Family: "Tanklager" — a heavy industrial display face.
+ * One family with a width distinction: Original = normal (100%), Kompakt = 80%.
+ * Select Kompakt with `font-stretch: 80%` (or `condensed`).
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://www.tunera.xyz/fonts/tanklager/ (codeberg.org/ArielMartinPerez/Tanklager)
+ */
+
+@font-face {
+  font-family: 'Tanklager';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url('./files/tanklager-original.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Tanklager';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 80%;
+  font-display: swap;
+  src: url('./files/tanklager-kompakt.woff2') format('woff2');
+}

@@ -1,0 +1,14 @@
+/* Tanklager — variable width axis (woff2), wdth 80–100
+ * Family: "Tanklager". Set width via `font-stretch` (80% = Kompakt, 100% = Original).
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://www.tunera.xyz/fonts/tanklager/
+ */
+
+@font-face {
+  font-family: 'Tanklager';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 80% 100%;
+  font-display: swap;
+  src: url('./files/tanklager-variable.woff2') format('woff2-variations');
+}

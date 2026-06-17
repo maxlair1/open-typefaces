@@ -1,0 +1,22 @@
+/* Isenheim — Régulier (400) + Fin (200), woff2
+ * Family: "Isenheim" — a gothic/textura display face.
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://www.tunera.xyz/fonts/isenheim/ (gitlab.com/benoitsansterre/isenheim)
+ * Relative src URLs — one <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Isenheim';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./files/isenheim-fin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Isenheim';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/isenheim-regular.woff2') format('woff2');
+}

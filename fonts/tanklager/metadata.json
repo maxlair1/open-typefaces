@@ -1,0 +1,11 @@
+{
+  "id": "tanklager", "name": "Tanklager", "category": "display", "designer": "Ariel Martín Pérez",
+  "description": "A heavy industrial display face with a width axis: Original (100) to Kompakt (80).", "version": "1.0",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) 2024, Ariel Martín Pérez (tainome.com), with Reserved Font Name \"Tanklager\".",
+  "source": { "upstream": "https://www.tunera.xyz/fonts/tanklager/", "homepage": "https://www.tunera.xyz/fonts/tanklager/", "addedAt": "2026-06-16" },
+  "cssFamily": "Tanklager", "css": { "static": "tanklager.css", "variable": "tanklager-variable.css" },
+  "weights": [400], "styles": ["normal"],
+  "axes": [{ "tag": "wdth", "name": "Width", "min": 80, "max": 100, "default": 100 }],
+  "formats": ["woff2"], "variable": true
+}
