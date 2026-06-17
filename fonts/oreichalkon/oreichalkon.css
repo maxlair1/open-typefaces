@@ -1,0 +1,61 @@
+/* Oreichalkon — static weights (woff2), 100–700
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://dotcolon.net/fonts/oreichalkon
+ * Relative src URLs — one <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('./files/oreichalkon-thin.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url('./files/oreichalkon-extralight.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('./files/oreichalkon-light.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/oreichalkon-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('./files/oreichalkon-medium.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('./files/oreichalkon-semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Oreichalkon';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./files/oreichalkon-bold.woff2') format('woff2');
+}

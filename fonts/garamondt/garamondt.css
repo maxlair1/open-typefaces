@@ -1,0 +1,21 @@
+/* Garamondt — Regular + Italic (woff2)
+ * WTFPL (do whatever you want) — see ./LICENSE.txt
+ * Upstream: https://fonderie.download/garamondt.html
+ * Relative src URL — one <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Garamondt';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/garamondt-regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Garamondt';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/garamondt-italic.woff2') format('woff2');
+}

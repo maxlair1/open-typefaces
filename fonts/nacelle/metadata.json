@@ -1,0 +1,10 @@
+{
+  "id": "nacelle", "name": "Nacelle", "category": "sans-serif", "designer": "Sora Sagano",
+  "description": "A geometric sans-serif from dotcolon, 8 weights with matching italics.", "version": "1.00",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"Nacelle\".",
+  "source": { "upstream": "https://dotcolon.net/fonts/nacelle", "homepage": "https://dotcolon.net/fonts/nacelle", "addedAt": "2026-06-16" },
+  "cssFamily": "Nacelle", "css": { "static": "nacelle.css" },
+  "weights": [100,200,300,400,600,700,800,900], "styles": ["normal","italic"], "axes": [],
+  "formats": ["woff2"], "variable": false
+}

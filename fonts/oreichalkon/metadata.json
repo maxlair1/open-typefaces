@@ -1,0 +1,11 @@
+{
+  "id": "oreichalkon", "name": "Oreichalkon", "category": "sans-serif", "designer": "Sora Sagano",
+  "description": "A geometric sans-serif from dotcolon, with a variable weight axis.", "version": "1.00",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"Oreichalkon\".",
+  "source": { "upstream": "https://dotcolon.net/fonts/oreichalkon", "homepage": "https://dotcolon.net/fonts/oreichalkon", "addedAt": "2026-06-16" },
+  "cssFamily": "Oreichalkon", "css": { "static": "oreichalkon.css", "variable": "oreichalkon-variable.css" },
+  "weights": [100,200,300,400,500,600,700], "styles": ["normal"],
+  "axes": [{ "tag": "wght", "name": "Weight", "min": 100, "max": 1000, "default": 100 }],
+  "formats": ["woff2"], "variable": true
+}

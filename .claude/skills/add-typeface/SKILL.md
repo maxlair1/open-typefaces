@@ -28,9 +28,11 @@ similar. Find the license file in the source (`LICENSE`, `LICENSE.txt`, `OFL.txt
 
 ## 1. Check it isn't already on a real CDN
 
-The user only wants to vendor fonts that *aren't* already conveniently hosted. Before
-doing the work, check — and if it IS already on a real CDN, report that and ask whether
-they still want a curated copy here before proceeding.
+**Standing rule:** only *vendor* fonts that aren't already conveniently hosted. If a font
+IS already on a real CDN (Fontsource, an official npm package, Google Fonts, the author's
+own CDN), do **not** vendor it — just add a `reference.json` entry pointing at that CDN
+and skip the rest of this skill (steps 2–8). No need to ask. Vendor only when there's no
+existing CDN.
 
 ```bash
 ID=<kebab-id>

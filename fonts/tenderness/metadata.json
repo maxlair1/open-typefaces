@@ -1,0 +1,35 @@
+{
+  "id": "tenderness",
+  "name": "Tenderness",
+  "category": "display",
+  "designer": "Sora Sagano",
+  "description": "A display typeface from dotcolon.",
+  "version": "0.601",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Copyright (c) 2017, Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"Tenderness\".",
+  "source": {
+    "upstream": "https://dotcolon.net/fonts/tenderness/",
+    "homepage": "https://dotcolon.net/fonts/tenderness/",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Tenderness",
+  "css": {
+    "static": "tenderness.css"
+  },
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "axes": [],
+  "formats": [
+    "woff2"
+  ],
+  "variable": false
+}

@@ -1,0 +1,13 @@
+/* Beast — single weight (woff2)
+ * WTFPL (do whatever you want) — see ./LICENSE.txt
+ * Upstream: https://fonderie.download/beast.html
+ * Relative src URL — one <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Beast';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/beast-regular.woff2') format('woff2');
+}

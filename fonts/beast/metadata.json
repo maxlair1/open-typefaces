@@ -1,0 +1,35 @@
+{
+  "id": "beast",
+  "name": "Beast",
+  "category": "display",
+  "designer": "fonderie.download",
+  "description": "A heavy display typeface from fonderie.download.",
+  "version": "1.000",
+  "license": {
+    "id": "WTFPL",
+    "name": "WTFPL (Do What The F* You Want To Public License)",
+    "file": "LICENSE.txt",
+    "url": "http://www.wtfpl.net/"
+  },
+  "copyright": "Beast by fonderie.download, released under the WTFPL.",
+  "source": {
+    "upstream": "https://fonderie.download/beast.html",
+    "homepage": "https://fonderie.download/beast.html",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Beast",
+  "css": {
+    "static": "beast.css"
+  },
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "axes": [],
+  "formats": [
+    "woff2"
+  ],
+  "variable": false
+}

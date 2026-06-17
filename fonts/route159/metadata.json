@@ -1,0 +1,10 @@
+{
+  "id": "route159", "name": "Route 159", "category": "sans-serif", "designer": "Sora Sagano",
+  "description": "A clean geometric sans-serif from dotcolon, 6 weights with matching italics.", "version": "1.10",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) 2015, Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"Route159\".",
+  "source": { "upstream": "https://dotcolon.net/fonts/route159", "homepage": "https://dotcolon.net/fonts/route159", "addedAt": "2026-06-16" },
+  "cssFamily": "Route159", "css": { "static": "route159.css" },
+  "weights": [200,300,400,600,700,800], "styles": ["normal","italic"], "axes": [],
+  "formats": ["woff2"], "variable": false
+}

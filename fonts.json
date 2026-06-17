@@ -6,6 +6,27 @@
   },
   "typefaces": [
     {
+      "id": "aspekta",
+      "name": "Aspekta",
+      "category": "sans-serif",
+      "license": "OFL-1.1",
+      "variable": true,
+      "css": {
+        "static": "fonts/aspekta/aspekta.css",
+        "variable": "fonts/aspekta/aspekta-variable.css"
+      }
+    },
+    {
+      "id": "beast",
+      "name": "Beast",
+      "category": "display",
+      "license": "WTFPL",
+      "variable": false,
+      "css": {
+        "static": "fonts/beast/beast.css"
+      }
+    },
+    {
       "id": "drafting-mono",
       "name": "Drafting Mono",
       "category": "monospace",
@@ -17,14 +38,54 @@
       }
     },
     {
-      "id": "aspekta",
-      "name": "Aspekta",
+      "id": "fa-1",
+      "name": "FA-1",
+      "category": "display",
+      "license": "OFL-1.1",
+      "variable": false,
+      "css": {
+        "static": "fonts/fa-1/fa-1.css"
+      }
+    },
+    {
+      "id": "garamondt",
+      "name": "Garamondt",
+      "category": "serif",
+      "license": "WTFPL",
+      "variable": false,
+      "css": {
+        "static": "fonts/garamondt/garamondt.css"
+      }
+    },
+    {
+      "id": "metropolis",
+      "name": "Metropolis",
       "category": "sans-serif",
+      "license": "Unlicense",
+      "variable": false,
+      "css": {
+        "static": "fonts/metropolis/metropolis.css"
+      }
+    },
+    {
+      "id": "mioya",
+      "name": "Mioya",
+      "category": "display",
       "license": "OFL-1.1",
       "variable": true,
       "css": {
-        "static": "fonts/aspekta/aspekta.css",
-        "variable": "fonts/aspekta/aspekta-variable.css"
+        "static": "fonts/mioya/mioya.css",
+        "variable": "fonts/mioya/mioya-variable.css"
+      }
+    },
+    {
+      "id": "nacelle",
+      "name": "Nacelle",
+      "category": "sans-serif",
+      "license": "OFL-1.1",
+      "variable": false,
+      "css": {
+        "static": "fonts/nacelle/nacelle.css"
       }
     },
     {
@@ -38,13 +99,34 @@
       }
     },
     {
-      "id": "metropolis",
-      "name": "Metropolis",
+      "id": "oreichalkon",
+      "name": "Oreichalkon",
       "category": "sans-serif",
-      "license": "Unlicense",
+      "license": "OFL-1.1",
+      "variable": true,
+      "css": {
+        "static": "fonts/oreichalkon/oreichalkon.css",
+        "variable": "fonts/oreichalkon/oreichalkon-variable.css"
+      }
+    },
+    {
+      "id": "route159",
+      "name": "Route 159",
+      "category": "sans-serif",
+      "license": "OFL-1.1",
       "variable": false,
       "css": {
-        "static": "fonts/metropolis/metropolis.css"
+        "static": "fonts/route159/route159.css"
+      }
+    },
+    {
+      "id": "tenderness",
+      "name": "Tenderness",
+      "category": "display",
+      "license": "OFL-1.1",
+      "variable": false,
+      "css": {
+        "static": "fonts/tenderness/tenderness.css"
       }
     }
   ]

@@ -28,5 +28,50 @@
     "font": "Iosevka",
     "href": "https://github.com/be5invis/iosevka",
     "source": "https://cdn.jsdelivr.net/npm/@fontsource/iosevka@latest/index.css"
+  },
+  {
+    "font": "Pretendard",
+    "href": "https://github.com/orioncactus/pretendard",
+    "source": "https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css"
+  },
+  {
+    "font": "Oreichalkon",
+    "href": "https://dotcolon.net/fonts/oreichalkon",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/oreichalkon/oreichalkon.css"
+  },
+  {
+    "font": "FA-1",
+    "href": "https://dotcolon.net/fonts/fa_1/",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/fa-1/fa-1.css"
+  },
+  {
+    "font": "Tenderness",
+    "href": "https://dotcolon.net/fonts/tenderness/",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/tenderness/tenderness.css"
+  },
+  {
+    "font": "Nacelle",
+    "href": "https://dotcolon.net/fonts/nacelle",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/nacelle/nacelle.css"
+  },
+  {
+    "font": "Mioya",
+    "href": "https://dotcolon.net/fonts/mioya",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/mioya/mioya.css"
+  },
+  {
+    "font": "Route 159",
+    "href": "https://dotcolon.net/fonts/route159",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/route159/route159.css"
+  },
+  {
+    "font": "Garamondt",
+    "href": "https://fonderie.download/garamondt.html",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/garamondt/garamondt.css"
+  },
+  {
+    "font": "Beast",
+    "href": "https://fonderie.download/beast.html",
+    "source": "https://cdn.jsdelivr.net/gh/maxlair1/open-typefaces@v1.5.0/fonts/beast/beast.css"
   }
 ]

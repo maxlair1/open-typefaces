@@ -1,0 +1,11 @@
+{
+  "id": "mioya", "name": "Mioya", "category": "display", "designer": "Sora Sagano",
+  "description": "A display face from dotcolon with a variable weight axis.", "version": "1.00",
+  "license": { "id": "OFL-1.1", "name": "SIL Open Font License 1.1", "file": "OFL.txt", "url": "https://scripts.sil.org/OFL" },
+  "copyright": "Copyright (c) Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"Mioya\".",
+  "source": { "upstream": "https://dotcolon.net/fonts/mioya", "homepage": "https://dotcolon.net/fonts/mioya", "addedAt": "2026-06-16" },
+  "cssFamily": "Mioya", "css": { "static": "mioya.css", "variable": "mioya-variable.css" },
+  "weights": [300,400,700,900], "styles": ["normal"],
+  "axes": [{ "tag": "wght", "name": "Weight", "min": 100, "max": 1000, "default": 100 }],
+  "formats": ["woff2"], "variable": true
+}

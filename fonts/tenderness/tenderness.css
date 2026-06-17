@@ -1,0 +1,13 @@
+/* Tenderness — single weight (woff2)
+ * SIL Open Font License 1.1 — see ./OFL.txt
+ * Upstream: https://dotcolon.net/fonts/tenderness/
+ * Relative src URL — one <link> loads the woff2 from the same host.
+ */
+
+@font-face {
+  font-family: 'Tenderness';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./files/tenderness-regular.woff2') format('woff2');
+}

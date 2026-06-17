@@ -1,0 +1,35 @@
+{
+  "id": "fa-1",
+  "name": "FA-1",
+  "category": "display",
+  "designer": "Sora Sagano",
+  "description": "A display typeface from dotcolon.",
+  "version": "0.100",
+  "license": {
+    "id": "OFL-1.1",
+    "name": "SIL Open Font License 1.1",
+    "file": "OFL.txt",
+    "url": "https://scripts.sil.org/OFL"
+  },
+  "copyright": "Copyright (c) Sora Sagano (sagano@dotcolon.net), with Reserved Font Name \"FA-1\".",
+  "source": {
+    "upstream": "https://dotcolon.net/fonts/fa_1/",
+    "homepage": "https://dotcolon.net/fonts/fa_1/",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "FA-1",
+  "css": {
+    "static": "fa-1.css"
+  },
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal"
+  ],
+  "axes": [],
+  "formats": [
+    "woff2"
+  ],
+  "variable": false
+}

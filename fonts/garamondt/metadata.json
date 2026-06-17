@@ -1,0 +1,36 @@
+{
+  "id": "garamondt",
+  "name": "Garamondt",
+  "category": "serif",
+  "designer": "fonderie.download",
+  "description": "A free Garamond-inspired serif with regular and italic.",
+  "version": "1.000",
+  "license": {
+    "id": "WTFPL",
+    "name": "WTFPL (Do What The F* You Want To Public License)",
+    "file": "LICENSE.txt",
+    "url": "http://www.wtfpl.net/"
+  },
+  "copyright": "Garamondt by fonderie.download, released under the WTFPL.",
+  "source": {
+    "upstream": "https://fonderie.download/garamondt.html",
+    "homepage": "https://fonderie.download/garamondt.html",
+    "addedAt": "2026-06-16"
+  },
+  "cssFamily": "Garamondt",
+  "css": {
+    "static": "garamondt.css"
+  },
+  "weights": [
+    400
+  ],
+  "styles": [
+    "normal",
+    "italic"
+  ],
+  "axes": [],
+  "formats": [
+    "woff2"
+  ],
+  "variable": false
+}
